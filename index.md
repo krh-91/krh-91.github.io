@@ -23,6 +23,5 @@ Check out some of my work below!
 
 ## 📫 Contact
 
-- [GitHub: @krh-91](https://github.com/krh-91)
+- [GitHub](https://github.com/krh-91)
 - [LinkedIn](https://www.linkedin.com/in/kevin-h-1346281bb)
-- Email: you@example.com
