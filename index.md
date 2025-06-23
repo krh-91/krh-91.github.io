@@ -10,7 +10,6 @@ Check out some of my work below!
 
 ## 🛠 Projects
 
-- **GreenFarm AI**: ML-powered yield predictor [GitHub](https://github.com/yourusername/greenfarm-ai)
 - **Fit Journal**: Exercise planner and workout tracker using React and next.js [link](https://fit-journal.vercel.app)
 
 ## 🧠 Skills
@@ -25,5 +24,5 @@ Check out some of my work below!
 ## 📫 Contact
 
 - GitHub: [@krh-91](https://github.com/krh-91)
-- LinkedIn: [your-handle](https://www.linkedin.com/in/kevin-h-1346281bb)
+- LinkedIn: [Kevin Hines](https://www.linkedin.com/in/kevin-h-1346281bb)
 - Email: you@example.com
